@@ -20,7 +20,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaaghaee&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/sinaaghaee)
+[![Top Langs](https://github-readme-stats-phi-orcin.vercel.app/api/top-langs/?username=sinaaghaee&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/sinaaghaee)
 
 
 [linkedin]: https://www.linkedin.com/in/sinaaghaee/
