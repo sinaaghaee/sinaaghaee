@@ -18,7 +18,7 @@
 
 ---
 
-<summary> **GitHub Stats**</summary>
+### GitHub Stats:
 
 <br/>
 
