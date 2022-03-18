@@ -10,11 +10,9 @@
 
 ### Connect with me:
 
-[![kaggle](./img/kaggle.png)](https://www.kaggle.com/sinaaghaee)
+[![kaggle](./img/icons8-kaggle-96.png)](https://www.kaggle.com/sinaaghaee)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin.png)](https://www.linkedin.com/in/sinaaghaee)
-
-&nbsp;&nbsp;
 
 
 ---
