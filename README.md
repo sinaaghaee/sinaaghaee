@@ -10,11 +10,10 @@
 
 ### Connect with me:
 
-[![linkedin](./img/linkedin.png)](https://www.linkedin.com/in/sinaaghaee/#gh-light-mode-only)
-[![linkedin](./img/linkedin.png)](https://www.linkedin.com/in/sinaaghaee/#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light)](https://www.linkedin.com/in/sinaaghaee/#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark)](https://www.linkedin.com/in/sinaaghaee/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-[![kaggle](./img/kaggle.svg)](https://www.kaggle.com/sinaaghaee)
 [![kaggle](./img/kaggle.svg)](https://www.kaggle.com/sinaaghaee)
 &nbsp;&nbsp;
 
