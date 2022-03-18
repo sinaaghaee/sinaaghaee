@@ -10,15 +10,14 @@
 
 ### Connect with me:
 
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/sinaaghaee/#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sinaaghaee/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![kaggle](./img/kaggle-icon.svg)](https://www.kaggle.com/sinaaghaee)
 &nbsp;&nbsp;
+[![linkedin](./img/linkedin.png)](https://www.linkedin.com/in/sinaaghaee)
+
+&nbsp;&nbsp;
+
 
 ---
-
-### GitHub Stats:
 
 <br/>
 
