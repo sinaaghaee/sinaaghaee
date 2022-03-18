@@ -10,25 +10,16 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sinaaghaee/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sinaaghaee/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sinaaghaee/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-
-<br />
-<br />
-
-
 ---
 
+<summary>:zap: GitHub Stats</summary>
 
+<img align="left" alt="Sinaaghaee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sinaaghaee&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sinaaghaee&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
 
 
 
