@@ -20,7 +20,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats-phi-orcin.vercel.app/api?username=sinaaghaee)](https://github.com/sinaaghaee)
+[![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=sinaaghaee)](https://github.com/sinaaghaee)
 
 
 
