@@ -3,8 +3,8 @@
 ### I'm a Business Analyst and Junior Data Scientist!
 
 - I'm generally interested in Technology, Data Analysis, AI, Business, Finance, and Investment.
-- I'm currently learning more about machine learning and data science.
-- I'm trying to improve my programming skills.
+- I'm currently enhancing my data science and machine learning knowledge.
+- I'm trying to improve my programming skills as well.
 
 
 
