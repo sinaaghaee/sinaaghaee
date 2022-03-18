@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![kaggle](./img/kaggle-icon.svg)](https://www.kaggle.com/sinaaghaee)
+[![kaggle](./img/kaggle.png)](https://www.kaggle.com/sinaaghaee)
 &nbsp;&nbsp;
 [![linkedin](./img/linkedin.png)](https://www.linkedin.com/in/sinaaghaee)
 
