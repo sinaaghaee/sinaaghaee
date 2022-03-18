@@ -20,8 +20,7 @@
 
 ---
 
-[![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=sinaaghaee)](https://github.com/sinaaghaee)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaaghaee)](https://github.com/sinaaghaee)
 
 
 [linkedin]: https://www.linkedin.com/in/sinaaghaee/
