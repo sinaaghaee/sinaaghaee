@@ -19,6 +19,17 @@
 
 [![Sinaaghaee's GitHub Stats](https://github-readme-stats-phi-orcin.vercel.app/api?username=sinaaghaee&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true)](https://github.com/sinaaghaee)
 
+
+<a href="https://github.com/sinaaghaee#gh-light-mode-only">
+  <img src="https://github-readme-stats-phi-orcin.vercel.app/api?username=sinaaghaee&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/sinaaghaee#gh-dark-mode-only">
+  <img src="https://github-readme-stats-phi-orcin.vercel.app/api?username=sinaaghaee&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
+
+
+
 ---
 
 [![Top Langs](https://github-readme-stats-phi-orcin.vercel.app/api/top-langs/?username=sinaaghaee&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/sinaaghaee)
