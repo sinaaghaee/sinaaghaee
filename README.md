@@ -1,6 +1,6 @@
 ## Hi there, I'm Sina  👋 
 
-### I'm a Business Analyst and Junior Data Scientist!
+### I'm a Business Analyst and a Junior Data Scientist!
 
 - I'm generally interested in Technology, Data Analysis, AI, Business, Finance, and Investment.
 - I'm currently enhancing my data science and machine learning knowledge.
