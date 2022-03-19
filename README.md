@@ -21,7 +21,7 @@
 
 
 <a href="https://github.com/sinaaghaee#gh-light-mode-only">
-  <img src="https://github-readme-stats-phi-orcin.vercel.app/api?username=sinaaghaee&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats-phi-orcin.vercel.app/api?username=sinaaghaee&show_icons=true&theme=buefy#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/sinaaghaee#gh-dark-mode-only">
