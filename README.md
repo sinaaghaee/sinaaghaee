@@ -42,6 +42,11 @@
   <img src="https://github-readme-stats-phi-orcin.vercel.app/api/top-langs/?username=sinaaghaee&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 
+### Tech and tools:
+
+<div>
+ <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54/> <img alt="R" src="https://img.shields.io/badge/R-%233D76A3.svg?style=for-the-badge&logo=R&logoColor=white"/> <img alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23010A11.svg?style=for-the-badge&logo=markdown&logoColor=white"/>  <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>  <img alt="sikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  <img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
 
 
 [linkedin]: https://www.linkedin.com/in/sinaaghaee/
