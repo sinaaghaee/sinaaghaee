@@ -14,6 +14,8 @@
 [![linkedin](./img/linkedin.png)](https://www.linkedin.com/in/sinaaghaee)
 &nbsp;&nbsp;
 [![kaggle](./img/icons8-kaggle-48.png)](https://www.kaggle.com/sinaaghaee)
+&nbsp;&nbsp;
+[![telegram](./img/icons8-telegram-app-48.png)](https://t.me/sinaaghaee)
 
 ---
 
@@ -42,3 +44,4 @@
 
 [linkedin]: https://www.linkedin.com/in/sinaaghaee/
 [kaggle]: https://www.kaggle.com/sinaaghaee
+[telegram]: https://t.me/sinaaghaee
