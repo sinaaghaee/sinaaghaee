@@ -42,7 +42,10 @@
   <img src="https://github-readme-stats-phi-orcin.vercel.app/api/top-langs/?username=sinaaghaee&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
 
-
+### Tech and tools
+<div>
+ <img alt="python" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=Python&logoColor=white"/> 
+</div>
 
 [linkedin]: https://www.linkedin.com/in/sinaaghaee/
 [kaggle]: https://www.kaggle.com/sinaaghaee
