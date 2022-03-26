@@ -51,4 +51,3 @@
 
 [linkedin]: https://www.linkedin.com/in/sinaaghaee/
 [kaggle]: https://www.kaggle.com/sinaaghaee
-[telegram]: https://t.me/sinaaghaee
