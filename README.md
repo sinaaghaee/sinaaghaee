@@ -4,7 +4,7 @@
 
 - I'm generally interested in Technology, Data Analysis, AI, Business, Finance, and Investment.
 - I'm constantly enhancing my data science and machine learning knowledge.
-- I'm trying to improve my programming skills as well.
+- I'm improving my programming skills as well.
 - In the pinned repositories section below, you can find some of the small data projects I have done.
 
 
