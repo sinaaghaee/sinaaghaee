@@ -20,20 +20,6 @@
 ---
 
 
-<a href="https://github.com/sinaaghaee#gh-light-mode-only">
-  <img src="https://github-readme-stats-phi-orcin.vercel.app/api?username=sinaaghaee&show_icons=true&theme=default #gh-light-mode-only" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/sinaaghaee#gh-dark-mode-only">
-  <img src="https://github-readme-stats-phi-orcin.vercel.app/api?username=sinaaghaee&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
-
-
-
----
-
-
-
 ### Languages and Tools:
 
 <div>
