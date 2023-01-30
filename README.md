@@ -1,6 +1,6 @@
 ## Hi there, I'm Sina  👋 
 
-### I am an Industrial Engineering student!
+### I am an Industrial Engineering student and a Data Analyst!
 
 - I'm generally interested in Technology, Engineering, Data Science, and Business.
 - I'm constantly enhancing my data science and machine learning knowledge.
