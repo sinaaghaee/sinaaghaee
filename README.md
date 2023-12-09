@@ -1,11 +1,6 @@
-## Hi there, I'm Sina  👋 
+## Hi there, Sina is here.
 
-### I am an Industrial Engineer, Researcher, and Data Analyst!
-
-- I'm generally interested in Technology, Engineering, Data Science, and Business.
-- In the pinned repositories section below, you can find some of the small data projects I have done.
-
-
+### I am an Industrial Engineer and Researcher.
 
 ### Connect with me:
 
