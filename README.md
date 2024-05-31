@@ -1,6 +1,6 @@
 ## Sina Aghaee
 
-### I am an Industrial Engineer, Researcher, and PhD student.
+### Industrial Engineer, Researcher, and PhD student.
 
 ### Connect with me:
 
