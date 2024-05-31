@@ -1,6 +1,6 @@
-## Hi there, Sina is here.
+## Sina Aghaee
 
-### I am an Industrial Engineer and Researcher.
+### I am an Industrial Engineer, Researcher, and PhD student.
 
 ### Connect with me:
 
