@@ -8,6 +8,8 @@
 &nbsp;&nbsp;
 [![kaggle](./img/icons8-kaggle-48.png)](https://www.kaggle.com/sinaaghaee)
 &nbsp;&nbsp;
+[![scholar](./icons8-google-scholar-48.png)](https://scholar.google.com/citations?user=bsKhgAIAAAAJ&hl=en)
+&nbsp;&nbsp;
 <a href="mailto:sinaaghaee21@gmail.com"> <img src="./img/icons8-gmail-48.png"> </a>
 
 ---
