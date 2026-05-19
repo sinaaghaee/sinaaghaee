@@ -1,28 +1,52 @@
-## Sina Aghaee Dabaghan Fard
+# Sina Aghaee Dabaghan Fard
 
+Ph.D. student in Industrial & Systems Engineering at Texas A&M University, working at the intersection of applied machine learning, Bayesian/statistical modeling, predictive maintenance, and data-driven engineering systems.
 
-### Industrial Engineer, Researcher, and PhD student.
+I build models and pipelines for complex real-world data: multi-sensor time series, failure-event data, uncertainty quantification, industrial monitoring, and business/market analytics.
 
-### Connect with me:
+## Focus Areas
 
-[![linkedin](./img/linkedin.png)](https://www.linkedin.com/in/sinaaghaee)
-&nbsp;&nbsp;
-[![kaggle](./img/icons8-kaggle-48.png)](https://www.kaggle.com/sinaaghaee)
-&nbsp;&nbsp;
-[![scholar](./icons8-google-scholar-48.png)](https://scholar.google.com/citations?user=bsKhgAIAAAAJ&hl=en)
-&nbsp;&nbsp;
-<a href="mailto:sinaaghaee21@gmail.com"> <img src="./img/icons8-gmail-48.png"> </a>
+- Applied machine learning for engineering and manufacturing systems
+- Bayesian modeling, Gaussian processes, survival analysis, and uncertainty quantification
+- Predictive maintenance, reliability analytics, and multi-sensor data fusion
+- Data pipelines with Python, SQL, PyTorch, Pandas, NumPy, and scientific computing tools
+- AI-assisted research and development workflows with OpenAI Codex, Claude, GitHub Copilot, and LLM-based coding/review tools
 
----
+## Featured Work
 
+### Bayesian Multi-Sensor Failure Prediction
 
-### Languages and Tools:
+Repository: [data-science-tamu/MFGPCox](https://github.com/data-science-tamu/MFGPCox)
 
-<div>
- <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23010A11.svg?style=for-the-badge&logo=markdown&logoColor=white"/>  <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>  <img alt="sikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>  <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>  <img alt="jupyter-notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/> <img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> 
-</div>
+Code for a Bayesian joint model of multi-sensor condition-monitoring signals, failure times, and multiple failure modes. This work supports predictive maintenance and uncertainty-aware failure prediction for complex engineering systems.
 
+- Published in *Technometrics*, 2026
+- Finalist, QCRE Best Student Paper Competition, IISE Annual Conference & Expo 2025
+- Methods: convolved multi-output Gaussian processes, Cox proportional hazards modeling, Bayesian inference, failure-mode classification
 
+## Technical Stack
 
-[linkedin]: https://www.linkedin.com/in/sinaaghaee/
-[kaggle]: https://www.kaggle.com/sinaaghaee
+**Languages:** Python, R, SQL, MATLAB  
+**ML/Data:** PyTorch, GPyTorch, Pandas, NumPy, scikit-learn, TensorFlow, lifelines, statsmodels  
+**Analytics:** Time-series modeling, survival analysis, Bayesian modeling, statistical quality control, process mining  
+**Tools:** Git, GitHub, GitLab, Jupyter, Power BI, LaTeX, VS Code, PyCharm  
+**AI Development:** OpenAI Codex, Claude, GitHub Copilot, prompt-assisted coding, code review, and research prototyping
+
+## Selected Projects
+
+- [MFGPCox](https://github.com/data-science-tamu/MFGPCox): Bayesian joint modeling for multi-sensor failure prediction.
+- [ProcessMiningProject-CustomerBehaviorAnalysis](https://github.com/sinaaghaee/ProcessMiningProject-CustomerBehaviorAnalysis): Customer journey analysis with PM4Py in Python.
+- [Hierarchical-Risk-Parity](https://github.com/sinaaghaee/Hierarchical-Risk-Parity): Portfolio optimization using hierarchical risk parity.
+- [SFO-Passengers_TimeSeriesAnalysis](https://github.com/sinaaghaee/SFO-Passengers_TimeSeriesAnalysis): Time-series analysis and forecasting with R.
+
+## Currently Preparing
+
+I am preparing additional research code repositories for public release, including work on scalable Bayesian machine learning and applied engineering analytics. These will be published after paper/release approval.
+
+## Connect
+
+- Website: [sinalytics.net](https://sinalytics.net/)
+- LinkedIn: [linkedin.com/in/sinaaghaee](https://www.linkedin.com/in/sinaaghaee/)
+- Google Scholar: [Sina Aghaee Dabaghan Fard](https://scholar.google.com/citations?user=bsKhgAIAAAAJ&hl=en)
+- Kaggle: [kaggle.com/sinaaghaee](https://www.kaggle.com/sinaaghaee)
+- Email: [sina.aghaee@tamu.edu](mailto:sina.aghaee@tamu.edu)
